@@ -1,3 +1,13 @@
 offroad-env/ 
 Offroad_Segmentation_Training_Dataset/ 
-Offroad_Segmentation_testImages/ 
+Offroad_Segmentation_testImages/
+
+# Model checkpoints (too large for GitHub)
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Training outputs
+training_history.png
+training_history.json
